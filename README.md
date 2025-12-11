@@ -63,7 +63,7 @@ CSV – Dataset original
 
 Imagen del dashboard final:
 
-📌 
+📌 ![Dashboar](./Dashboard_hospital.png)
 
 ## 🔍 Insights principales
 
