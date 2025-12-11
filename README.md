@@ -18,8 +18,10 @@ CSV – Dataset original
 
 ## 🛠 Proceso aplicado
 1. Limpieza y preparación de datos en SQL
+   
+📁 [Ver Dataset](./donacion_sangre_hjm_2024.csv)
 
-[Ver Codigo SQL](./Donaciones_de_Sangre_HJM_2024.sql)
+📁 [Ver Codigo SQL](./Donaciones_de_Sangre_HJM_2024.sql)
 
     -Normalización de columnas
     
