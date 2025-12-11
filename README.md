@@ -39,22 +39,40 @@ CSV – Dataset original
 
 2. Exportación a Power BI
 
-  -Importación individual de KPIs sin relaciones
-  
-  -Construcción del dashboard tipo “infografía”
-  
-  -Diseño visual inspirado en un sistema solar (donut central = núcleo)
+      -Importación individual de KPIs sin relaciones
+      
+      -Construcción del dashboard tipo “infografía”
+      
+      -Diseño visual inspirado en un sistema solar (donut central = núcleo)
 
 ## ⭐ KPIs principales
 
-  -% Donaciones aceptadas
+   -% Donaciones aceptadas
 
-  -Distribución por tipo sanguíneo
+   -Distribución por tipo sanguíneo
 
-  -Distribución por género
+   -Distribución por género
 
-  -Promedio de edad general y por sexo
+   -Promedio de edad general y por sexo
 
-  -Tipos de donación
+   -Tipos de donación
 
-  -Tipos de extracción
+   -Tipos de extracción
+   
+## 🎨 Diseño del dashboard
+
+Imagen del dashboard final:
+
+📌 
+
+## 🔍 Insights principales
+
+La mayoría de las donaciones fueron aceptadas (96%).
+
+El 66% de los donantes fueron hombres.
+
+El tipo de sangre más común donado fue O+.
+
+Promedio de edad general: 38.25 años.
+
+El HJM tiene alta participación de donadores con extracción “Doble Aféresis” y “Sangre Total”.
